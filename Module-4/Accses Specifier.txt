@@ -1,0 +1,6 @@
+            Same-Class      Inherit-Class       Out-of-the-Class
+Public      yes             yes                 yes
+Private     yes             Not                 Not
+Protected   yes             yes                 Not
+
+Private:- is defualt(no need to define)

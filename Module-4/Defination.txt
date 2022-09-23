@@ -1,0 +1,15 @@
+Class:- Collection of the data member and member function
+						OR
+		Blue-print of the object. //Not Ocupie the memory
+
+Object:-Instance of the class //Ocupie the memory
+
+Inheritance:-Reusablty of the class
+
+Polymorphism:-One name many form
+
+Abstraction:-Hide the background detail
+
+Encapsulation:-bind the data
+					OR
+			   Wrrapping up the data
