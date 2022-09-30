@@ -1,0 +1,10 @@
+A.High level language
+	1.POP-Procedure Orianted Programming(c,basic,Fortran)
+	2.OOP-Object Orianted Programming(C++,Java,.Net,C#.......)
+	3.Logical Programming language(prolog....)
+	4.Functional programming laguage(python,lisp.....)
+ 	
+B.Low level language
+
+	1.Machine language
+	2.Assambly Language 
