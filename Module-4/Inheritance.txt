@@ -1,0 +1,17 @@
+Reuasablity of class
+------------------------------------------
+types:-
+1.single level
+->One perent(Base) class and One child(derived) class
+
+2.Multi level
+->One grand perent, One perent and One child
+
+3.Multiple
+->Multiple Base class and One derived class
+
+4.Hirachical
+->One Base class and multiple derived class
+
+5.Hybried
+->Combition of any other 2 types
